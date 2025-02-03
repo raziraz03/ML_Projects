@@ -34,3 +34,12 @@ Then  standard scalred was used
 Then data was splittd to test and train where test data was 0.2
 all was assignment to the algortithams1. Logistic Regression 2. Decision Tree Classifier 3. Random Forest Classifier 4. Support Vector Machine (SVM) 5. k-Nearest Neighbors (k-NN)
 
+############################################################################
+Assignment 5
+Data was fetched from the sklearn
+where the data is taken to dataframe for prepeocessing
+Basic checking of the data with info(),shape,describe()
+Then checked for nullvalues and duplicate values.
+Duplicate value was handled
+Data was taken to Kmean and AgglomerativeClustering 
+line chart and dendrogram was drown out of the data
